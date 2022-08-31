@@ -1,2 +1,0 @@
-[report]
-omit=src/tests/*,src/vendor/*,/usr/lib/moulinette/yunohost/*
